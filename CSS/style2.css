@@ -1,0 +1,31 @@
+@media (min-width: 801px) {
+    body {
+      margin: 0 auto;
+      width: 800px;
+    }
+  }
+  
+
+.first {
+    font-weight: bold;
+  }
+  .second {
+      color:red;
+  }
+  .third {
+      color: white;
+      background-color: blue;
+  }
+  .done {
+    text-decoration: line-through;
+  }
+
+  #amable {
+    font-family: cursive;
+  }
+  
+  #rudo {
+    font-family: monospace;
+    text-transform: uppercase;
+  }
+  
